@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "toans",
+    "author": "NQT",
+    "price": 88000,
+    "quantity": 99
+  },
+  {
+    "id": 2,
+    "title": "Lys",
+    "author": "ABC",
+    "price": 68000,
+    "quantity": 90
+  },
+  {
+    "id": 3,
+    "title": "Vanw",
+    "author": "XYD",
+    "price": 80000,
+    "quantity": 60
+  },
+  {
+    "id": 4,
+    "title": "Hoas",
+    "author": "NQAT",
+    "price": 88000,
+    "quantity": 99
+  },
+  {
+    "id": 5,
+    "title": "Anh",
+    "author": "NJAJT",
+    "price": 4500,
+    "quantity": 10
+  }
+]
